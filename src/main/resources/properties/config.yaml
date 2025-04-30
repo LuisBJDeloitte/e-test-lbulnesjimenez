@@ -1,0 +1,19 @@
+http:
+  port: "8081"
+  listener:
+    host: "0.0.0.0"
+    port: "8081"
+
+user:
+  host: "p-test-lbulnesjimenez-3dmtql.5sc6y6-1.usa-e2.cloudhub.io"
+  port: "80"
+  basepath: "/"
+  protocol: "HTTP"
+  
+api:
+  id: "20322282"
+  
+prc-test:
+  auth:
+    client_id: "![Aq5AHZTgSUfz78ZUeBVE66Jqxspa9KF+G9tToWTDOOVktlILhwG6Sw==]"
+    client_secret: "![/9Vt++jAbNTivnsNsleeCtfACU6m/kqX81/NQvuVKiKwGvk27qYD2g==]"
